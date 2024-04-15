@@ -12,9 +12,7 @@ website:
         href: https://twitter.com
 format:
   html:
-    theme: 
-      light: litera
-      dark: cyborg
+    theme: cyborg
     css: styles.css
 
 editor: visual
