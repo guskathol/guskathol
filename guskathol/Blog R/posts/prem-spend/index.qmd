@@ -1,0 +1,12 @@
+---
+title: "CHANGE THIS TO BE THE TITLE OF YOUR POST"
+author: "THIS IS YOUR NAME"
+date: '2022-XX-XX'
+categories: [lowercaseword, lowercaseword, lowercaseword]
+image: "image.png"
+format: 
+  html:
+    code-fold: true
+---
+
+Brand New Test
