@@ -1,6 +1,6 @@
 project:
   type: website
-  output-dir: ../guskathol.github.io
+  output-dir: ../guskathol.github.io/guskathol
 
 website:
   title: "Blog R"
